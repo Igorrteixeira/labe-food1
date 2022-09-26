@@ -29,7 +29,7 @@
     - O usuário visualiza o preço total da compra, que deve ser corretamente calculado de acordo com o preço e quantidade de cada item adicionado.
     - O usuário é capaz de selecionar uma forma de pagamento dentre as opções de cartão e dinheiro.
     - O usuário é capaz de concluir um pedido e, ao fazê-lo, deve ver um banner de "Pedido em Andamento" com os dados do pedido (esse banner fica ativo durante X minutos, sendo X o tempo de entrega do restaurante).
-    
+    -
 - **Perfil, Editar Perfil e Histórico de Pedidos**
     - O usuário é capaz de visualizar seus dados pessoais e endereço
     - O usuário é capaz de editar seus dados pessoais e endereço
